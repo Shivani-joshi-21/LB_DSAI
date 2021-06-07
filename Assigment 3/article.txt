@@ -1,0 +1,11 @@
+The Covid-19 pandemic has impacted many aspects of how we do business, but it hasn’t diminished the impact AI is having on our lives. In fact, it’s become apparent that self-teaching algorithms and smart machines will play a big part in the ongoing fight against this outbreak as well as others we may face in the future.
+
+AI undoubtedly remains a key trend when it comes to picking the technologies that will change how we live, work, and play in the near future. So, here’s an overview of what we can expect during what will be a year of rebuilding our lives as well as rethinking business strategies and priorities.
+
+Smarter Big Data Data Analytics and Insights
+
+During this ongoing pandemic, we've seen first-hand the urgent need to quickly analyse and interpret data on the spread of viruses around the world. Governments, global health bodies, academic research centres, and industry have come together to develop new ways that information can be collected, aggregated, and worked with. We’voe become used to seeing the results of this on the news every night, when the latest infection or death rates are given for our own regions.
+
+Technological advancement is the main reason that this pandemic hasn’t (yet) killed as many as, for example, the 1918 Spanish Flu outbreak that claimed up to 50 million lives. From advancement in medical technology and standards of care, to advances in communication technology that enabled outbreaks to be spotted more quickly and lockdowns imposed. Over the next year, AI will be added to the list of technological developments that are enabling us to more effectively deal with pandemics.
+
+The growth in the amount of scientific and medical literature alone is enormous, with more than 28,000 papers published by April this year relating to Covid-19. A dedicated search engine powered by natural language processing (NLP) algorithms has already been made available, so anyone can get AI assistance when investigating this massive dataset.
